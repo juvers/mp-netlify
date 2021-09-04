@@ -1,0 +1,15 @@
+{
+  "name": "mmp",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "web",
+    "sanity"
+  ],
+  "devDependencies": {
+    "@hzdg/eslint-config": "^2.0.2",
+    "eslint": "^7.32.0",
+    "prettier": "^2.3.2"
+  }
+}
